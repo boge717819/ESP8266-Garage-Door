@@ -10,8 +10,8 @@ For this project, you will need:
 # Wiring
 On the Relay module, you will need to solder the two ends of the magnetic switch to the GND and GPIO02 ( doesn't matter which to which). The picture shows the connection to the ESP8266 itself, but I found it eaiser to solder to the relay module instead. This way you can place/remove  ESP8266 freely.
 
-![alt text](https://github.com/onada/ESP8266-Garage-Door/blob/master/switch-magnetic-door_bb.png?raw=true")
+![wiring](https://github.com/onada/ESP8266-Garage-Door/blob/master/switch-magnetic-door_bb.png?raw=true")
 
 The ESP8266 plug directly into the Relay module
 
-![alt text]("https://github.com/onada/ESP8266-Garage-Door/blob/master/bbbb.jpg?raw=true")
+![hw-655]("https://github.com/onada/ESP8266-Garage-Door/blob/master/bbbb.jpg?raw=true")
