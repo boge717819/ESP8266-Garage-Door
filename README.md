@@ -25,7 +25,7 @@ Here is a tutorial on how to code ESP8266 using Arduino IDE http://www.instructa
 
 # Actions
 
-* To open the garage door, visit http://the-esp8266-i-address/open
-* To close the garage door, visit http://the-esp8266-i-address/close
-* To check the door status, visit http://the-esp8266-i-address/status( 0=closed, 1=open)
+* To open the garage door, visit http://the-esp8266-ip-address/open ( ex http://192.168.2.10/open) 
+* To close the garage door, visit http://the-esp8266-ip-address/close
+* To check the door status, visit http://the-esp8266-ip-address/status( 0=closed, 1=open)
 
