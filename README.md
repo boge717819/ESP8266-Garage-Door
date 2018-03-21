@@ -23,3 +23,9 @@ The ESP8266 plug directly into the Relay module
 
 Here is a tutorial on how to code ESP8266 using Arduino IDE http://www.instructables.com/id/ESP8266-Programming-Using-FTDI-and-Arduino-IDE/
 
+# Actions
+
+* To open the garage door, visit http://the-esp8266-i-address/open
+* To close the garage door, visit http://the-esp8266-i-address/close
+* To check the door status, visit http://the-esp8266-i-address/status( 0=closed, 1=open)
+
