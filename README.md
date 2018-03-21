@@ -8,7 +8,7 @@ For this project, you will need:
 
 # Dependencies
 
-This projects make use of the ESP8266 libraries for Arduino found as https://github.com/esp8266/Arduino. 
+The ESP8266 libraries for Arduino found at https://github.com/esp8266/Arduino. 
 
 # Wiring
 On the Relay module, you will need to solder the two ends of the magnetic switch to the GND and GPIO02 ( doesn't matter which to which). The picture shows the connection to the ESP8266 itself, but I found it eaiser to solder to the relay module instead. This way you can place/remove  ESP8266 freely.
@@ -25,7 +25,7 @@ Here is a tutorial on how to code ESP8266 using Arduino IDE http://www.instructa
 
 # Actions
 
-* To open the garage door, visit http://the-esp8266-ip-address/open ( ex http://192.168.2.10/open) 
-* To close the garage door, visit http://the-esp8266-ip-address/close
-* To check the door status, visit http://the-esp8266-ip-address/status( 0=closed, 1=open)
+* To **Open** the garage door, visit http://the-esp8266-ip-address/open ( ex http://192.168.2.10/open) 
+* To **Close** the garage door, visit http://the-esp8266-ip-address/close
+* To **Check the door status**, visit http://the-esp8266-ip-address/status( 0=closed, 1=open)
 
