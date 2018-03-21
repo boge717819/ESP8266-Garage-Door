@@ -1,5 +1,5 @@
+```html
 For this project, you will need:
-
 
 <ul>
 <li><b>ESP8266 (v01)</b>  - http://amzn.to/2u79UYY or https://goo.gl/feJq7w</li>
@@ -15,3 +15,4 @@ On the Relay module, you will need to solder the two ends of the magnetic switch
 The ESP8266 plug directly into the Relay module
 
 <img src="https://github.com/onada/ESP8266-Garage-Door/blob/master/bbbb.jpg?raw=true">
+```
