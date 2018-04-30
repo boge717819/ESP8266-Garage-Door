@@ -24,7 +24,7 @@ On the Relay module, you will need to solder the two ends of the magnetic switch
 
 The ESP8266 plug directly into the Relay module
 
-![HW-655](https://github.com/onada/ESP8266-Garage-Door/blob/master/bbbb.jpg)
+![HW-655](https://github.com/onada/ESP8266-Garage-Door/blob/master/HW-655.jpg)
 
 # How-to program ESP8266 using Arduino IDE
 
