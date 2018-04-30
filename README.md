@@ -1,8 +1,8 @@
 The purpose of this device is to allow network/internet access to your garage door using ESP8266, a NO magnetic switch and the HW-655 relay board. A typical garage door opener is trigged by a press on a wall mounted button. This project will emulate this press. It uses  the magnetic switch to check if the garage door is closed.
 
 **Logic**:
-openGarageDoor() { if ( door-is-closed) simulateButtonPress() }
-closeGarageDoor(){ if ( door-is-open) simulateButtonPress() }
+* openGarageDoor() { if ( door-is-closed) simulateButtonPress() }
+* closeGarageDoor(){ if ( door-is-open) simulateButtonPress() }
 
 
 # Components
